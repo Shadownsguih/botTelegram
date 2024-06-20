@@ -19,7 +19,7 @@ def handle_start(message):
 @bot.message_handler(commands=['LiberarAcesso'])
 def LiberarAcesso(message):
     mensagem = (
-        "Para criar uma conta, por favor, siga as instruções abaixo:\n\n"
+        "Para Liberar o seu acesso, por favor, siga as instruções abaixo:\n\n"
         "1. Acesse o seguinte link: {}\n\n"
         "2. Preencha os dados necessários.\n\n"
         "3. Confirme seu cadastro, e faça um depósito mínimo de R$30,00. pra que a conta seja considerada uma CONTA ATIVA\n\n"  
